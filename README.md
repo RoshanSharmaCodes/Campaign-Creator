@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Validations to be Added for creating and editing campaign using useFormHook.
 2. As an MVP I have decided to go with Context API, But to make it a full fledge product we should go with react-redux.
 3. Since I have mainly focused on the functionality of the MVP, More work can be done on Responsive UI.
-4. I have used the free version of MUI Library, For Quick Built of the components.
+4. I have used the free version of MUI Library, For Quick Built of the components & Have used Modular CSS to avoid any CSS Conflict.
 
 
 ## Available Scripts
