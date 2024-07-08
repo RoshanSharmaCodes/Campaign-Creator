@@ -1,0 +1,31 @@
+.campaignHeader{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.campaignCardGrid{
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px;
+}
+
+.createCampaignModalSecondCol{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+
+.createCampaignModalThirdCol{
+    display: flex;
+    flex-direction: column;
+}
+
+.dayTimeCont{
+    display: flex;
+    justify-content: space-between;
+    height: 60;
+    align-items: center;
+}
